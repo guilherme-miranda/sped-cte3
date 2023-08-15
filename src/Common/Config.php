@@ -1,12 +1,12 @@
 <?php
 
-namespace NFePHP\CTe\Common;
+namespace NFePHP\CTe3\Common;
 
 /**
  * Class for validation of config
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Common\Config
+ * @package   NFePHP\CTe3\Common\Config
  * @copyright NFePHP Copyright (c) 2008-2017
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
@@ -18,7 +18,7 @@ namespace NFePHP\CTe\Common;
 use JsonSchema\Validator as JsonValid;
 use JsonSchema\SchemaStorage;
 use stdClass;
-use NFePHP\CTe\Exception\DocumentsException;
+use NFePHP\CTe3\Exception\DocumentsException;
 
 class Config
 {

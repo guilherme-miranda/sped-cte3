@@ -1,13 +1,13 @@
 <?php
 
-namespace NFePHP\CTe;
+namespace NFePHP\CTe3;
 
 /**
  * Class responsible for communication with SEFAZ extends
- * NFePHP\CTe\Common\Tools
+ * NFePHP\CTe3\Common\Tools
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Tools
+ * @package   NFePHP\CTe3\Tools
  * @copyright NFePHP Copyright (c) 2008-2017
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
@@ -19,7 +19,7 @@ namespace NFePHP\CTe;
 use NFePHP\Common\Strings;
 use NFePHP\Common\Signer;
 use NFePHP\Common\UFList;
-use NFePHP\CTe\Common\Tools as ToolsCommon;
+use NFePHP\CTe3\Common\Tools as ToolsCommon;
 use RuntimeException;
 use InvalidArgumentException;
 

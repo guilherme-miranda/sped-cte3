@@ -1,10 +1,10 @@
 <?php
 
-namespace NFePHP\CTe;
+namespace NFePHP\CTe3;
 
 use NFePHP\Common\Strings;
-use NFePHP\CTe\Common\Standardize;
-use NFePHP\CTe\Exception\DocumentsException;
+use NFePHP\CTe3\Common\Standardize;
+use NFePHP\CTe3\Exception\DocumentsException;
 use DOMDocument;
 
 class Complements

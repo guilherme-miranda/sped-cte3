@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\CTe\Factories;
+namespace NFePHP\CTe3\Factories;
 
 use DateTime;
 use NFePHP\Common\Keys;

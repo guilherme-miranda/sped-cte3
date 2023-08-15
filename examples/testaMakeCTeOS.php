@@ -4,10 +4,10 @@ ini_set('display_errors', 'On');
 
 require_once '../bootstrap.php';
 
-use NFePHP\CTe\Make;
-use NFePHP\CTe\Tools;
-use NFePHP\CTe\Complements;
-use NFePHP\CTe\Common\Standardize;
+use NFePHP\CTe3\Make;
+use NFePHP\CTe3\Tools;
+use NFePHP\CTe3\Complements;
+use NFePHP\CTe3\Common\Standardize;
 use NFePHP\Common\Certificate;
 use NFePHP\Common\Soap\SoapCurl;
 

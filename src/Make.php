@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\CTe;
+namespace NFePHP\CTe3;
 
 /**
  *

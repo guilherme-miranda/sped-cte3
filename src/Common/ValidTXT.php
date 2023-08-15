@@ -1,12 +1,12 @@
 <?php
 
-namespace NFePHP\CTe\Common;
+namespace NFePHP\CTe3\Common;
 
 /**
  * Validation for TXT representation of NFe
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Common\ValidTXT
+ * @package   NFePHP\CTe3\Common\ValidTXT
  * @copyright NFePHP Copyright (c) 2008-2017
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

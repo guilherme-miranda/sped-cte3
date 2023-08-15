@@ -1,12 +1,12 @@
 <?php
 
-namespace NFePHP\CTe\Factories;
+namespace NFePHP\CTe3\Factories;
 
 /**
  * Class QRCode create a string to make a QRCode string
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Factories\QRCode
+ * @package   NFePHP\CTe3\Factories\QRCode
  * @copyright NFePHP Copyright (c) 2008-2019
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

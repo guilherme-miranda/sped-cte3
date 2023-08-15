@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 'On');
 require_once '../bootstrap.php';
 
-use NFePHP\CTe\Tools;
+use NFePHP\CTe3\Tools;
 use NFePHP\Common\Certificate;
 use NFePHP\Common\Soap\SoapCurl;
 

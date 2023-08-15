@@ -1,13 +1,13 @@
 <?php
 
-namespace NFePHP\CTe\Factories;
+namespace NFePHP\CTe3\Factories;
 
 /**
  * @todo Precisa ser refatorada
  * Class Contingency make a structure to set contingency mode
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Common\Contingency
+ * @package   NFePHP\CTe3\Common\Contingency
  * @copyright NFePHP Copyright (c) 2008
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT

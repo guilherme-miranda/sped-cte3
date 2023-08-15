@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\CTe\Common;
+namespace NFePHP\CTe3\Common;
 
 /**
  * Class for identification and convertion of eletronic documents in xml
@@ -17,7 +17,7 @@ namespace NFePHP\CTe\Common;
  */
 
 use NFePHP\Common\Validator;
-use NFePHP\CTe\Exception\DocumentsException;
+use NFePHP\CTe3\Exception\DocumentsException;
 use stdClass;
 
 class Standardize

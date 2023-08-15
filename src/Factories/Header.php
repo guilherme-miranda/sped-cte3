@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\CTe\Factories;
+namespace NFePHP\CTe3\Factories;
 
 /**
  * Class responsible for the assembly of SOAPHeader, will no longer exist

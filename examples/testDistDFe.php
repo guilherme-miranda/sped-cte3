@@ -4,7 +4,7 @@ ini_set('display_errors', 'On');
 require_once '../bootstrap.php';
 
 use NFePHP\Common\Certificate;
-use NFePHP\CTe\Tools;
+use NFePHP\CTe3\Tools;
 
 // tanto o config.json como o certificado.pfx podem estar
 // armazenados em uma base de dados, então não é necessário

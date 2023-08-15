@@ -1,12 +1,12 @@
 <?php
 
-namespace NFePHP\CTe\Common;
+namespace NFePHP\CTe3\Common;
 
 /**
  * Class base responsible for communication with SEFAZ
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Common\Tools
+ * @package   NFePHP\CTe3\Common\Tools
  * @copyright NFePHP Copyright (c) 2008-2017
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
@@ -25,10 +25,10 @@ use NFePHP\Common\Strings;
 use NFePHP\Common\TimeZoneByUF;
 use NFePHP\Common\UFList;
 use NFePHP\Common\Validator;
-use NFePHP\CTe\Factories\Contingency;
-use NFePHP\CTe\Factories\ContingencyCTe;
-use NFePHP\CTe\Factories\Header;
-use NFePHP\CTe\Factories\QRCode;
+use NFePHP\CTe3\Factories\Contingency;
+use NFePHP\CTe3\Factories\ContingencyCTe;
+use NFePHP\CTe3\Factories\Header;
+use NFePHP\CTe3\Factories\QRCode;
 use RuntimeException;
 
 class Tools

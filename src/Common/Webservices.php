@@ -1,13 +1,13 @@
 <?php
 
-namespace NFePHP\CTe\Common;
+namespace NFePHP\CTe3\Common;
 
 /**
  * Class to Read and preprocess WS parameters from xml storage
  * file to json encode or stdClass
  *
  * @category  NFePHP
- * @package   NFePHP\CTe\Common\Webservices
+ * @package   NFePHP\CTe3\Common\Webservices
  * @copyright NFePHP Copyright (c) 2008-2017
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
